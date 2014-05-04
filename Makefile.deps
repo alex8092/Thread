@@ -1,0 +1,3 @@
+# DO NOT DELETE
+
+obj/ft_threadcreate.o: include/ft_thread.h
